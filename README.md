@@ -1,0 +1,2 @@
+# music-recommendation-based-on-facial-emotion-recognition
+We propose a new approach for playing music automatically using facial emotion. Most of the existing approaches involve playing music manually, using wearable computing devices, or classifying based on audio features. Instead, we propose to change the manual sorting and playing. We have used a Convolutional Neural Network for emotion detection.
